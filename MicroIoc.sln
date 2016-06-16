@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroIoc", "MicroIoc\MicroIoc.csproj", "{251E2EA3-2E27-4EE1-AB6B-94612B2B0073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroIoc.DotNet20", "MicroIoc.DotNet20\MicroIoc.DotNet20.csproj", "{015682FC-C5C4-43CE-8818-59B28F4DB1AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroIoc.DotNet35", "MicroIoc.DotNet35\MicroIoc.DotNet35.csproj", "{36715F48-4D96-4BBD-A393-655E865C6E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251E2EA3-2E27-4EE1-AB6B-94612B2B0073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251E2EA3-2E27-4EE1-AB6B-94612B2B0073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251E2EA3-2E27-4EE1-AB6B-94612B2B0073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251E2EA3-2E27-4EE1-AB6B-94612B2B0073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015682FC-C5C4-43CE-8818-59B28F4DB1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015682FC-C5C4-43CE-8818-59B28F4DB1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015682FC-C5C4-43CE-8818-59B28F4DB1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015682FC-C5C4-43CE-8818-59B28F4DB1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36715F48-4D96-4BBD-A393-655E865C6E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36715F48-4D96-4BBD-A393-655E865C6E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36715F48-4D96-4BBD-A393-655E865C6E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36715F48-4D96-4BBD-A393-655E865C6E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
