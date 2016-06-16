@@ -116,4 +116,6 @@ namespace System
 		int Size { get; }
 		string ToString();
 	}
+
+	public delegate TResult Func<TResult>();
 }

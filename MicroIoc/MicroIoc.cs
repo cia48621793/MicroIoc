@@ -11,8 +11,6 @@ namespace MicroIoc {
 
     }
 
-    public delegate TResult Func<TResult>();
-
 	class IocContainer : IEnumerable<KeyValuePair<Type, Tuple<object, Delegate>>>
     {
 		private static IocContainer g_Instance;
